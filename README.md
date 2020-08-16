@@ -1,2 +1,4 @@
-# tacotron
-implement tacotron
+# Tacotron
+Implement Tacatron
+## Data
+
